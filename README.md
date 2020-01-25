@@ -1,0 +1,1 @@
+# multiple_delete-item-and-image-delete-from-folder
